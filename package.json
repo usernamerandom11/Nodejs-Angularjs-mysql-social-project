@@ -16,7 +16,7 @@
     "multer": "~0.1.6",
     "mysql": "^2.14.1",
     "nodemailer": "^4.0.1",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.17",
     "passport": "*",
     "passport-local": "*",
     "socket.io": "*"
